@@ -1,4 +1,4 @@
-<h1 align="center">🐼 Oyyee, you found me 😆</h1>
+<samp><h1 align="center">🐼 Oyyee, you found me 😆</h1></samp>
 
 ---
 <div align="left">
