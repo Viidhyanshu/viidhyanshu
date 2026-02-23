@@ -13,20 +13,18 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - uses: actions/checkout@v3
+      - name: Checkout repo
+        uses: actions/checkout@v3
 
       - name: Generate Pacman Contribution Graph
         uses: Platane/snk@v3
         with:
           github_user_name: viidhyanshu
           outputs: |
-            ./pacman-contribution-graph.svg
-            ./pacman-contribution-graph-dark.svg?palette=github-dark
+            pacman-contribution-graph.svg
+            pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Commit & Push
-        run: |
-          git config --global user.name "github-actions"
-          git config --global user.email "github-actions@github.com"
-          git add .
-          git commit -m "Generate Pacman Graph" || echo "No changes"
-          git push
+      - name: Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "update pacman graph"
