@@ -13,18 +13,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repo
-        uses: actions/checkout@v3
+      - uses: actions/checkout@v3
 
       - name: Generate Pacman Contribution Graph
-        uses: Platane/snk@v3
+        uses: abozanona/pacman-contribution-graph@main
         with:
           github_user_name: viidhyanshu
-          outputs: |
-            pacman-contribution-graph.svg
-            pacman-contribution-graph-dark.svg?palette=github-dark
 
-      - name: Push changes
+      - name: Commit files
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
           commit_message: "update pacman graph"
