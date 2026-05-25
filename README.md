@@ -1,7 +1,11 @@
+<samp>
+
+<a href="https://vidhyanshu.vercel.app">Oyee😆, you found me!🐼</a>  
+</samp>
 
 <h1 align="center">Hi, I'm Vidhyanshu Kumar</h1>
-<h3>Building products where clean design meets scalable engineering.
-Into Full Stack, DevOps, fast backends and tools developers actually enjoy using.</h3>
+<h4>Building products where clean design meets scalable engineering.</h4>
+<h4>Into Full Stack, DevOps, fast backends and tools developers actually enjoy using.</h4>
 
 ___
 
@@ -33,9 +37,6 @@ ___
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/rust.png" alt="Rust" title="Rust"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/python.png" alt="Python" title="Python"/>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/go.png" alt="Go" title="Go"/>
-
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/mocha.png" alt="Mocha" title="Mocha"/>
-  <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/postman.png" alt="Postman" title="Postman"/>
     <img src="https://www.vectorlogo.zone/logos/jasmine/jasmine-icon.svg" alt="jasmine" width="50" height="50"/>
 
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/docker.png" alt="Docker" title="Docker"/>
