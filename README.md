@@ -1,13 +1,16 @@
-<samp>
+<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<a href="https://vidhyanshu.vercel.app">Oyee😆, you found me!🐼</a>  
-</samp>
+<samp> <a href="https://vidhyanshu.vercel.app">Oyee😆, you found me!🐼</a>  </samp>
 
-<h1 align="center">Hi, I'm Vidhyanshu Kumar</h1>
+<h1 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;Hi, I'm Vidhyanshu  </h1>
 <h4>Building products where clean design meets scalable engineering.</h4>
-<h4>Into Full Stack, DevOps, fast backends and tools developers actually enjoy using.</h4>
+<h4>Into Full Stack, DevOps, fast backends and tools developers actually enjoy using.<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="75">&nbsp;</h4>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+</div>
 
-___
 
 <div>
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/html.png" alt="HTML" title="HTML"/>
@@ -49,3 +52,8 @@ ___
   <img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/figma.png" alt="Figma" title="Figma"/>
 </div>
 
+
+
+<div align="">
+ 
+</div>
