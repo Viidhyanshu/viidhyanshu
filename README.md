@@ -1,10 +1,10 @@
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/d48893bd-0757-481c-8d7e-ba3e163feae7" />
 
-<samp> <a href="https://vidhyanshu.vercel.app">Oyee😆, you found me!🐼</a>  </samp>
+
+<samp> <a href="https://vidhyanshu.vercel.app">Oyyeee😆, you found me!🐼</a>  </samp>
 
 <h1 align="center"><img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7bb1e704-6026-48f9-8435-2f4d40101348" width="75">&nbsp;Hi, I'm Vidhyanshu  </h1>
 <h4>Building products where clean design meets scalable engineering.</h4>
-<h4>Into Full Stack, DevOps, fast backends and tools developers actually enjoy using.<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/761f4c99-eda3-4c9a-a4ec-2b6311e2433a" width="75">&nbsp;</h4>
+<h4>Into Full Stack, DevOps, Backend System and tools developers actually enjoy using.</h4>
 
 
 
